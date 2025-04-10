@@ -1,0 +1,16 @@
+# Результаты сборки
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+
+# Файлы IDE
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+
+# Логи и кэш
+*.log
+*.tmp
